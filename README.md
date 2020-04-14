@@ -2,7 +2,7 @@
   <img alt="cplusplus" src="https://images.tcdn.com.br/img/img_prod/604201/c_1152_1_20180325172727.png" width="250px" float="center"/>
 </p>
 
-<h1 align="center">🏨 C ++ Intro 🏨</h1>
+<h1 align="center">💻 C ++ Intro 💻</h1>
 
 <p align="center">
   <strong>Study repository - Language C++</strong>
